@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=localhost;Database=TiendaOnline;Trusted_Connection=False;User ID=sa;Password=Testing@123" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/DataBase -f
